@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eadc198-330e-42e3-a28f-fd584b20144a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/1135814381.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/1310977300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/1625626755.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/2270230149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/2455490675.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/2862970287.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/311183628.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/3288998669.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/351904586.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/383349408.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/3939355218.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/4028484176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/651777504.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2018/12/915599750.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2019/04/2253732181.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2019/04/2426398752.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2019/04/2783515417.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2019/04/3104942692.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2019/04/3368238359.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2019/04/3918954425.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/uploads/2019/04/696025998.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621309408434</updated>
       <workItem from="1621309410270" duration="1304000" />
+      <workItem from="1621314730780" duration="293000" />
     </task>
     <servers />
   </component>
@@ -61,5 +84,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
